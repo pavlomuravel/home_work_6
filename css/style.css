@@ -1,7 +1,12 @@
 .content {
     border: 3px solid #000;
+    width: 800px;
+    height: 800px;
     margin: 40px;
-    padding: 10px;
+    margin-left: 27%;
+    margin-right: 27%;
+    margin-top: 70px;
+    border-collapse: collapse;
 }
 
 table td {
