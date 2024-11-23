@@ -17,5 +17,8 @@ table td {
 
 .right_cell {
     width: 30px;
+}
 
+.left_cell {
+    width: 70px;
 }
